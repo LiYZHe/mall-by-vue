@@ -9,7 +9,7 @@ export default {
   name:'Category',
   data() {
     return {
-      message:'我是分类'
+      message:'我是分类11'
     }
   },
 }
