@@ -1,6 +1,6 @@
 <template>
 <div>
-    我是分类
+    {{message}}
 </div>
 </template>
 
@@ -9,7 +9,7 @@ export default {
   name:'Category',
   data() {
     return {
-      
+      message:'我是分类11'
     }
   },
 }
