@@ -10,6 +10,8 @@ export default {
   data() {
     return {
       message:'我是分类11'
+
+      
     }
   },
 }
